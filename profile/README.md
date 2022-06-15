@@ -1,16 +1,16 @@
-## Hey 👋, I'm Mohsin Ikram!  
+## Welcome 👋, to BrandJaws!  
   
 
-<a href="https://github.com/mohsinikramvu" target="_blank">
+<a href="https://github.com/BrandJaws" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/mohsinikram1999" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mohsin-ikram-6084201b5" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/mohsinikram1999" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
@@ -39,7 +39,7 @@ I am a full-stack developer, who specialized in large-scale distributed SAS appl
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/71133614?v=4" align="center" style="width: 100%" />
+<img src="https://avatars.githubusercontent.com/u/60003320?s=200&v=4" align="center" style="width: 100%" />
 </div>  
 
 
@@ -79,11 +79,11 @@ I am a full-stack developer, who specialized in large-scale distributed SAS appl
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohsinikramvu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BrandJaws&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinikramvu&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandJaws&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -93,7 +93,7 @@ I am a full-stack developer, who specialized in large-scale distributed SAS appl
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mohsinikramvu&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=BrandJaws&&style=flat-square)  
   
 
 <br/>  
@@ -102,4 +102,3 @@ I am a full-stack developer, who specialized in large-scale distributed SAS appl
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
