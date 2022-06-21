@@ -1,6 +1,7 @@
-## Welcome 👋, to BrandJaws!  
+## BrandJaws | 🏆Web & Mobile Application Development Agency 
   
 ### Glad to see you here!  
+
 💎 BrandJaws is an Award-Winning, exponentially growing agency, providing services in Web and Mobile development for Startups, SMBs, and Corporations. 
 
 💎 We are Shopify Partner Agency and have been cited by “Best Startup Canada”, among the top 50 Internet start-ups in Ontario for 2021. 
