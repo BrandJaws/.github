@@ -58,16 +58,6 @@ We have been in the industry for the past 6 years, working relentlessly. We have
 ✅ WordPress
 ✅ Shopify
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/60003320?s=200&v=4" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
