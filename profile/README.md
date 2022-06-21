@@ -1,39 +1,62 @@
 ## Welcome 👋, to BrandJaws!  
   
-
-<a href="https://github.com/BrandJaws" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="" target="https://www.linkedin.com/company/brandjaws">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
 ### Glad to see you here!  
-I am a full-stack developer, who specialized in large-scale distributed SAS applications. Being a full-stack allows me to develop client-facing apps using modern standards and also it provides me the opportunity to work on cutting-edge backend technologies.  
-  
+💎 BrandJaws is an Award-Winning, exponentially growing agency, providing services in Web and Mobile development for Startups, SMBs, and Corporations. 
 
-<br/>  
+💎 We are Shopify Partner Agency and have been cited by “Best Startup Canada”, among the top 50 Internet start-ups in Ontario for 2021. 
 
+💎 We offer end-to-end Software Development Services, providing reliable solutions in Product Development and Resource Outsourcing. Our client handling, Robust Technological Solutions, and On-time Delivery ensure a quality product that has a great turnover.
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+𝐖𝐇𝐀𝐓 𝐖𝐄 𝐎𝐅𝐅𝐄𝐑:
 
-- 🔭 I’m currently working In  [BrandJaws](https://brandjaws.com/) as full-stack developer.  
-  
+✅ Web Application Development
+✅ Mobile Application Development
+✅ Desktop Application Development
+✅ Progressive Web Application
+✅ Dedicated Project Teams
+✅ WordPress Plug-in Development
+✅ Shopify App Development
+✅ WordPress Website Development
+✅ Shopify Website Development
+✅ UI/UX Design
+✅ Digital Marketing
 
-- 🌱 I’m currently learning DevOps   
-  
+𝐎𝐔𝐑 𝐒𝐓𝐀𝐅𝐅:
 
-- ❓ Ask me about anything related to ReactJs, Laravel, AngularJs, Bootstrap, Tailwind, LiveWire  
+We have a team of 15-30 geek-level developers on board, working full-time, with experience ranging from 3 to 13 years. Most of our developers are software engineers, with degrees from recognized universities.
+
+𝐎𝐔𝐑 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄:
+
+We have been in the industry for the past 6 years, working relentlessly. We have developed more than 100 websites and web/mobile/desktop applications for clients from all over the world. Our clients are situated on each of the five continents. Our offices are in US, UK, and Pakistan.
+
+𝐈𝐍𝐃𝐔𝐒𝐓𝐑𝐈𝐄𝐒 𝐖𝐄 𝐒𝐄𝐑𝐕𝐄𝐃:
+
+✔️ Finance and Investment
+✔️ Healthcare, Fitness, and Wellbeing
+✔️ Education
+✔️ Advertising
+✔️ Real Estate
+✔️Technology Management
+✔️Accounting
+✔️ Customer Service
+✔️ Engineering Equipment
+✔️ Digital Marketing
+✔️ Food and Beverage
+✔️ Consumer goods and Services
+✔️Telecommunication
+✔️ Logistics and Transportation
+
+𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊:
+
+✅ Laravel Framework
+✅ Flask (Python)
+✅ React
+✅ Vue.JS
+✅ Node.JS
+✅ Electron.JS 
+✅ React Native
+✅ WordPress
+✅ Shopify
 
 
 </td><td valign="top" width="50%">
